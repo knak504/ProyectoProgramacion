@@ -54,7 +54,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:gravity="center"
-                android:drawableTop="@mipmap/ic_local_phone_grey600_24dp"
+                android:drawableTop="@mipmap/pho"
                 android:textSize="16sp"
                 android:background="@drawable/selector_clickable_item_bg" />
 
@@ -64,7 +64,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:gravity="center"
-                android:drawableTop="@mipmap/ic_mood_grey600_24dp"
+                android:drawableTop="@mipmap/facebook_copia"
                 android:textSize="16sp"
                 android:background="@drawable/selector_clickable_item_bg" />
 
@@ -74,7 +74,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:gravity="center"
-                android:drawableTop="@mipmap/ic_pages_grey600_24dp"
+                android:drawableTop="@mipmap/twitter"
                 android:textSize="16sp"
                 android:background="@drawable/selector_clickable_item_bg" />
 
