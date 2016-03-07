@@ -76,6 +76,20 @@ public class Personas {
                         R.string.emailP3,
                         R.string.facebookP3,
                         R.string.twitterP3)
+                        
+                        
+                        
+         );
+        PERSONAS_LIST.add(new Personas(R.string.nombreP6,
+                        R.string.descripcionP6,
+                        R.string.edadP6,
+                        R.string.carreraP6,
+                        R.drawable.jeffrey,
+                        R.string.estadocivilP6,
+                        R.string.telefonoP6,
+                        R.string.emailP6,
+                        R.string.facebookP6,
+                        R.string.twitterP6)
 
                 
         );
