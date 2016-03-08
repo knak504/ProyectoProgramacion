@@ -26,6 +26,19 @@
     <string name="facebookP3">https://www.facebook.com/edy.oliva.5</string>
     <string name="twitterP3">https://twitter.com/edyoliiva</string>
     
+    <!-- PERSONA 4 -->
+    <string name="nombreP4">Elia Vanessa Rodríguez</string>
+    <string name="descripcionP4">La alegria no esta en las cosas;sino en nosotros-Wagner</string>
+    <string name="edadP4">21</string>
+    <string name="carreraP4">Ingeniería en Infotecnología</string>
+    <string name="estadocivilP4">Soltera</string>
+    <string name="telefonoP4">31567626</string>
+    <string name="emailP4">vanessa.rodriguez@ujcv.edu.hn</string>
+    <string name="facebookP4">https://www.facebook.com/vanessarodz11</string>
+    <string name="twitterP4">https://twitter.com/</string>
+    
+    
+    
     <!-- PERSONA 6 -->
     <string name="nombreP6">Jeffrey Aplicano</string>
     <string name="descripcionP6">Futuro Ingeniero en Infotecnologia</string>
