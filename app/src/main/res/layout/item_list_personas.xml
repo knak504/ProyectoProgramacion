@@ -28,7 +28,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceMedium"
-                android:text="Victor Alvarado"
+                android:text="X"
                 android:id="@+id/Txtnombre_persona"
 
                 android:layout_marginLeft="16dp"
@@ -43,7 +43,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Esto es una breve descripcion de victor alvarado para visualizar"
+                android:text="Esto es una breve descripcion de X para visualizar"
                 android:id="@+id/Txt_descrip_persona"
 
                 android:singleLine="false"
