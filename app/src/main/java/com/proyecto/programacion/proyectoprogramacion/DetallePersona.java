@@ -105,6 +105,22 @@ public class DetallePersona extends AppCompatActivity {
                 startActivity(callIntent);
             }
         });
+        
+         final Button botonWa =(Button)findViewById(R.id.whatsapp);
+        botonWa.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v) {
+                Uri uri = Uri.parse("smsto:" + getString(item.getNumero_Persona()));
+                Intent intent = new Intent(Intent.ACTION_SENDTO, uri);
+                intent.putExtra(Intent.EXTRA_TEXT, " ");
+                intent. setPackage("com.whatsapp");
+                startActivity(Intent.createChooser(intent, "Chat"));
+            }
+
+        });
+        
+        
+        
             Facebook_Link.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
