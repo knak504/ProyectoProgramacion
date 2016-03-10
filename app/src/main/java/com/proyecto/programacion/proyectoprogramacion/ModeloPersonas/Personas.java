@@ -63,8 +63,18 @@ public class Personas {
                         R.string.emailP1,
                         R.string.facebookP1,
                         R.string.twitterP1)
-
-                
+        );
+        PERSONAS_LIST.add(new Personas(R.string.nombreP2,
+                        R.string.descripcionP2,
+                        R.string.edadP2,
+                        R.string.carreraP2,
+                        R.drawable.donaldo canaca,
+                        R.string.estadocivilP2,
+                        R.string.telefonoP2,
+                        R.string.emailP2,
+                        R.string.facebookP2,
+                        R.string.twitterP2)
+                        
         );
         PERSONAS_LIST.add(new Personas(R.string.nombreP3,
                         R.string.descripcionP3,
