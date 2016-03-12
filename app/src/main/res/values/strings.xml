@@ -14,6 +14,17 @@
     <string name="emailP1">allan.mejia@ujcv.edu.hn</string>
     <string name="facebookP1">https://www.facebook.com/allan.f.nolasco"</string>
     <string name="twitterP1">https://twitter.com</string>
+    
+    <!-- PERSONA 2 -->
+    <string name="nombreP2">Donaldo Antonio Canaca Arrazola</string>
+    <string name="descripcionP2">Estudiente y trabajador, me gusta la musica y el arte</string>
+    <string name="edadP1">29</string>
+    <string name="carreraP2">Ingeniería en Infotecnología</string>
+    <string name="estadocivilP2">Casado</string>
+    <string name="telefonoP2">98644733</string>
+    <string name="emailP2">donaldo.canaca@ujcv.edu.hn</string>
+    <string name="facebookP2">https://www.facebook.com/knak.arrazola"</string>
+    <string name="twitterP2">https://twitter.com</string>
 
 <!-- PERSONA 3 -->
     <string name="nombreP3">Edy Oliva</string>
